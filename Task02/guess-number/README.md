@@ -53,4 +53,4 @@
 
 ## Ссылки
 
-Packagist: <https://packagist.org/packages/klotsai/guess_number>
+Packagist: <https://packagist.org/packages/klotsai/guess-number>
