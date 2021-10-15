@@ -1,6 +1,6 @@
 <?php
 
-namespace klotsai\guess_number\DataBase;
+namespace klotsai\guess_number\DB;
 
 use SQLite3;
 
