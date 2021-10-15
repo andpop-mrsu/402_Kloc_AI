@@ -9,5 +9,4 @@ if (file_exists($autoloadGit)) {
     require_once($autoloadPackagist);
 }
     use function klotsai\guess_number\Controller\startGame;
-
     startGame();
