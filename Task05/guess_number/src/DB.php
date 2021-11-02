@@ -2,7 +2,7 @@
 
 namespace klotsai\guess_number\DB;
 
-use RedBeanPHP\R as R;
+use \RedBeanPHP\R as R;
 
 use function klotsai\guess_number\View\showGamesInfo;
 use function klotsai\guess_number\View\showTurnInfo;
