@@ -1,5 +1,5 @@
 @ECHO OFF
 
-php run-test
+php run_test
 
 PAUSE
