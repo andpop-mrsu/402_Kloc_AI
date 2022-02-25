@@ -1,0 +1,25 @@
+{
+    "name": "klotsai/task03",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Klots AI",
+            "email": "artur.ak108@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Tests\\": "tests/"
+        },
+        "files": [
+            "src/checkIfBalanced.php"
+        ]
+    },
+    "bin": [
+        "bin/run_test"
+    ]
+}
